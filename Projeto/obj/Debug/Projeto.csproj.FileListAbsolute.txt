@@ -1,0 +1,13 @@
+C:\Users\jean2\Documents\Faculdade\3º Período\Linguagem de Programação C#\EPA\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\jean2\Documents\Faculdade\3º Período\Linguagem de Programação C#\EPA\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Users\jean2\Documents\Faculdade\3º Período\Linguagem de Programação C#\EPA\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Users\jean2\Documents\Faculdade\3º Período\Linguagem de Programação C#\EPA\Projeto\Projeto\obj\Debug\Projeto.csproj.AssemblyReference.cache
+C:\Users\jean2\Documents\Faculdade\3º Período\Linguagem de Programação C#\EPA\Projeto\Projeto\obj\Debug\Projeto.Form1.resources
+C:\Users\jean2\Documents\Faculdade\3º Período\Linguagem de Programação C#\EPA\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\jean2\Documents\Faculdade\3º Período\Linguagem de Programação C#\EPA\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\jean2\Documents\Faculdade\3º Período\Linguagem de Programação C#\EPA\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\jean2\Documents\Faculdade\3º Período\Linguagem de Programação C#\EPA\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Users\jean2\Documents\Faculdade\3º Período\Linguagem de Programação C#\EPA\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\jean2\Documents\Faculdade\3º Período\Linguagem de Programação C#\EPA\Projeto\Projeto\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jean2\Documents\Faculdade\3º Período\Linguagem de Programação C#\EPA\Projeto\Projeto\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jean2\Documents\Faculdade\3º Período\Linguagem de Programação C#\EPA\Projeto\Projeto\obj\Debug\Projeto.csproj.CopyComplete
